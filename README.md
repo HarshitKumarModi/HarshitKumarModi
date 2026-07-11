@@ -1,75 +1,87 @@
-# Hi there, I'm Harshit Kumar Modi 👋
+<div align="center">
 
-<h3 align="center">🚀 AI • Machine Learning • Full-Stack Development • Cybersecurity</h3>
+# 👋 Hi, I'm Harshit Kumar Modi
 
-<p align="center">
-I'm a passionate Computer Science student who loves building intelligent applications, solving real-world problems, and exploring emerging technologies in AI, Machine Learning, Cybersecurity, and Full-Stack Development.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Machine+Learning+Enthusiast;Full-Stack+Developer;Cybersecurity+Learner;Building+AI-Powered+Applications" alt="Typing SVG" />
+
+### 🚀 AI • Machine Learning • Full-Stack Development • Cybersecurity
+
+<p>
+Passionate about building intelligent software, solving real-world problems, and continuously learning cutting-edge technologies.
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=HarshitKumarModi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
 # 💫 About Me
 
-🎓 I'm a **Fourth-Year B.Tech Computer Science Engineering** student at **VIT Bhopal University**.
+🎓 Fourth-Year **B.Tech Computer Science Engineering** student at **VIT Bhopal University**
 
-💼 Currently working on **Machine Learning, AI-powered applications, and Full-Stack Web Development**, while continuously strengthening my Data Structures & Algorithms and System Design skills.
+💻 Passionate about building AI-powered applications, secure web platforms, and scalable backend systems.
 
-🔍 I enjoy building projects involving:
+🧠 I enjoy solving challenging problems through Machine Learning, Cybersecurity, and Full-Stack Development.
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🛡️ Cybersecurity & Network Security
-* 🌐 Full-Stack Web Applications
-* 📊 Data Analysis & Visualization
-* ☁️ Cloud Computing
-* ⚡ REST APIs & Backend Development
+🌱 Currently exploring
 
-🌱 Currently learning:
-
-* Advanced Machine Learning
-* Deep Learning
-* MLOps
+* Machine Learning & Deep Learning
 * FastAPI & Django
 * System Design
-* Cloud Technologies (AWS)
+* Cloud Computing
+* Data Structures & Algorithms
+* AI-powered Web Applications
 
-🤝 Looking to collaborate on:
+💡 Interested in
 
-* Open Source Projects
-* AI & Machine Learning Applications
+* Artificial Intelligence
+* Machine Learning
+* Cybersecurity
+* Backend Engineering
+* REST APIs
+* Open Source
+
+🤝 Looking to collaborate on
+
+* Machine Learning Projects
+* AI Applications
 * Cybersecurity Tools
-* Full-Stack Web Projects
-* Developer Communities
+* Open Source
+* Full-Stack Development
 
-💬 Ask me about:
+💬 Ask me about
 
 * Java
 * Python
 * Machine Learning
-* Full Stack Development
 * REST APIs
 * Git & GitHub
-* Data Structures & Algorithms
+* Data Structures
+* Web Development
 
-⚡ Fun Fact:
+⚡ Fun Fact
 
-> I enjoy turning complex ideas into practical, user-friendly applications while continuously learning new technologies.
+> I enjoy turning ideas into working software—from backend logic to polished user interfaces.
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/harshitkumarmodi" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://github.com/HarshitKumarModi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/HarshitKumarModi" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/harshitkumarmodi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -78,115 +90,153 @@ I'm a passionate Computer Science student who loves building intelligent applica
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Web Development
+---
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=flat\&logo=express)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django)
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
+### Backend
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
+
+---
 
 ### Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
 
-### Databases
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge\&logo=streamlit)
+
+---
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+---
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat\&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat\&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔐 Network Intrusion Detection System
+## 🔐 Network Intrusion Detection System
 
-Machine Learning-based intrusion detection system supporting multiple ML models with an interactive Streamlit dashboard for real-time predictions.
+A Machine Learning-powered intrusion detection platform supporting multiple classification models with an interactive Streamlit dashboard for real-time prediction and model comparison.
 
-**Tech:** Python • Streamlit • Scikit-Learn • TensorFlow • XGBoost
+**Tech Stack**
 
----
-
-### 💰 Automated Income Tax Calculator
-
-A Flask-based web application that calculates income tax with a clean and responsive user interface.
-
-**Tech:** Flask • Python • HTML • CSS • JavaScript
+Python • TensorFlow • Scikit-Learn • Streamlit • XGBoost
 
 ---
 
-### 🖥️ Self-Service Restaurant Kiosk
+## 💰 Automated Income Tax Calculator
 
-A digital ordering kiosk that improves restaurant ordering experience with an interactive interface.
+A responsive Flask web application that automates income tax calculations using an intuitive interface.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech Stack**
 
----
-
-# 📜 Certifications
-
-* ✅ AWS Certified Cloud Practitioner
-* ✅ GitHub Foundations
-* ✅ Postman API Fundamentals Student Expert
-* ✅ CODTECH Machine Learning Internship
+Python • Flask • HTML • CSS • JavaScript
 
 ---
 
-# 📊 GitHub Stats
+## 🍽️ Self-Service Restaurant Kiosk
 
-![](https://github-readme-stats.vercel.app/api?username=HarshitKumarModi\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+A digital restaurant ordering system focused on improving customer experience through a clean and responsive interface.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Machine Learning
+* Deep Learning
+* FastAPI
+* System Design
+* Cloud Computing
+* Data Structures & Algorithms
+
+---
+
+# 🏅 Experience
+
+### Machine Learning Intern
+
+**CODTECH IT SOLUTIONS**
+
+* Developed end-to-end Machine Learning projects.
+* Worked on data preprocessing, model training, evaluation, and deployment.
+* Built interactive dashboards using Streamlit.
+* Applied supervised learning techniques to solve real-world problems.
+
+---
+
+# 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=HarshitKumarModi\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshitKumarModi\&theme=tokyonight\&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitKumarModi\&theme=tokyonight\&layout=compact\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitKumarModi\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=HarshitKumarModi\&theme=tokyonight\&no-frame=true\&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=HarshitKumarModi\&theme=tokyonight\&no-frame=true\&margin-w=8\&margin-h=8)
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=HarshitKumarModi\&theme=tokyo-night)
 
 ---
 
-## ✍️ Dev Quote
+# ✨ Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
-## 👀 Profile Views
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=HarshitKumarModi\&style=for-the-badge\&color=blue)
+### 💡 "Code is not just about solving problems—it's about creating possibilities."
 
----
+⭐ If you like my work, consider giving a star to my repositories!
 
-<p align="center">
-⭐ Thanks for visiting my profile! Let's build something amazing together. 🚀
-</p>
+</div>
